@@ -24,3 +24,8 @@ Servicios de CI:
 * [CircleCI](https://circleci.com/) para crear, probar e implementar fácilmente código listo para producción.
 
 ![](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f12938338549ef6246b98aaa6418267e/circleci.png)
+
+
+![A Crash Course in CI/CD - ByteByteGo Newsletter](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f968b06-e00e-4e5e-8c8e-17150bea1054_3777x2859.png)
+
+[Articulo de unity sobre CI/CD](https://unity.com/es/topics/what-is-ci-cd)
