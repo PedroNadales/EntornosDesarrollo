@@ -19,5 +19,6 @@ En esta unidad aprenderemos a:
 
 Video de tecnicas basicas para opcimizacion de codigo:
 
+![Optimiza tu Código en Minutos: 7 Técnicas Básicas](https://i.ytimg.com/vi/KUiKzclxnUc/maxresdefault.jpg)
 
-<iframe width="914" height="514" src="https://www.youtube.com/embed/KUiKzclxnUc" title="Optimiza tu Código en Minutos: 7 Técnicas Básicas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Enlace al video](https://www.youtube.com/watch?v=KUiKzclxnUc&ab_channel=AlpacaTech)
