@@ -15,3 +15,9 @@ En esta unidad aprenderemos a:
 * Documentar el código con comentarios.
 * Documentar procesos, datos y eventos usando herramientas del entorno.
 * Documentar las clases con las herramientas del entorno.
+
+
+Video de tecnicas basicas para opcimizacion de codigo:
+
+
+<iframe width="914" height="514" src="https://www.youtube.com/embed/KUiKzclxnUc" title="Optimiza tu Código en Minutos: 7 Técnicas Básicas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
