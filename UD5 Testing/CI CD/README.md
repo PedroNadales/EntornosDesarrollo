@@ -12,7 +12,7 @@ Por ultimo el proceso de **Entrega continua** pone automáticamente en producci�
 
 Servicios de CI:
 
-* [Jenkins](https://www.jenkins.io/) servidor de automatización de código abierto líder, proporciona cientos de complementos para respaldar la creación, la implementación y la automatización de cualquier proyecto.
+* [Jenkins](https://www.jenkins.io/) servidor de automatización de código abierto líder, proporciona cientos de complementos para respaldar la creación, la implementación y la automatización de cualquier proyecto (Este es el que más me ha gustado personalmente).
 
   ![](https://www.jenkins.io/images/logos/jenkins/jenkins.svg)
 * [Bamboo](https://www.atlassian.com/es/software/bamboo) ofrece resistencia, fiabilidad y escalabilidad a equipos de todos los tamaños.
@@ -24,7 +24,6 @@ Servicios de CI:
 * [CircleCI](https://circleci.com/) para crear, probar e implementar fácilmente código listo para producción.
 
 ![](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f12938338549ef6246b98aaa6418267e/circleci.png)
-
 
 ![A Crash Course in CI/CD - ByteByteGo Newsletter](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f968b06-e00e-4e5e-8c8e-17150bea1054_3777x2859.png)
 
