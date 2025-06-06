@@ -2,7 +2,7 @@
 
 ### Clase `Animal`
 
-#### **Code Smells detectados**:
+#### **Code Smells detectados**: 
 
 * Método estático depende de instancia (`tipo`): `tipo` es un atributo de instancia, pero se usa en un método `static`.
 * **`switch` o `if` largo (Code Smell: *Large Conditional*)**
