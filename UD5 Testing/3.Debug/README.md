@@ -24,4 +24,6 @@ Podemos:
 
 # Ejemplo debug
 
-![image.png](assets/image.png)
+![image.png](assets/debug 1.png)
+
+![image.png](assets/debug2.png)
